@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/task_manager-react/static/css/main.5a5e6a65.css",
-    "main.js": "/task_manager-react/static/js/main.cc7286e2.js",
-    "static/js/453.a53b11f0.chunk.js": "/task_manager-react/static/js/453.a53b11f0.chunk.js",
-    "index.html": "/task_manager-react/index.html",
-    "main.5a5e6a65.css.map": "/task_manager-react/static/css/main.5a5e6a65.css.map",
-    "main.cc7286e2.js.map": "/task_manager-react/static/js/main.cc7286e2.js.map",
-    "453.a53b11f0.chunk.js.map": "/task_manager-react/static/js/453.a53b11f0.chunk.js.map"
+    "main.css": "/divya-153/task_manager-react/static/css/main.5a5e6a65.css",
+    "main.js": "/divya-153/task_manager-react/static/js/main.f5813b12.js",
+    "static/js/453.a53b11f0.chunk.js": "/divya-153/task_manager-react/static/js/453.a53b11f0.chunk.js",
+    "index.html": "/divya-153/task_manager-react/index.html",
+    "main.5a5e6a65.css.map": "/divya-153/task_manager-react/static/css/main.5a5e6a65.css.map",
+    "main.f5813b12.js.map": "/divya-153/task_manager-react/static/js/main.f5813b12.js.map",
+    "453.a53b11f0.chunk.js.map": "/divya-153/task_manager-react/static/js/453.a53b11f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a5e6a65.css",
-    "static/js/main.cc7286e2.js"
+    "static/js/main.f5813b12.js"
   ]
 }
